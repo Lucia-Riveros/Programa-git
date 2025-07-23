@@ -1,0 +1,2 @@
+Hola, este es mi primer archivo de Git.
+Proyecto herramientas genéricas.
